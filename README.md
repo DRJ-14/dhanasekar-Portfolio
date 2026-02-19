@@ -26,7 +26,7 @@ Bootstrap • jQuery • Typed.js • Isotope • Owl Carousel • Venobox
 │   ├── Weather.html
 │   └── ... (other project pages)
 ├── resume/
-│   └── Dhanasekar_Ravi_Jayanthi_Resume.pdf
+│   └── SD.pdf
 ├── assets/
 │   ├── css/
 │   ├── js/
